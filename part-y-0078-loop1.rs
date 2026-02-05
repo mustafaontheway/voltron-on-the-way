@@ -14,7 +14,7 @@ fn main() {
     }
 }
 
-"""
+/*
 We need a minute. Seconds: 1 and minute: 0.016666668
 We need a minute. Seconds: 2 and minute: 0.033333335
 We need a minute. Seconds: 3 and minute: 0.05       
@@ -103,4 +103,4 @@ We need a minute. Seconds: 58 and minute: 0.96666664
 We need a minute. Seconds: 59 and minute: 0.98333335
 We need a minute. Seconds: 60 and minute: 1
 
-"""
+*/
